@@ -1,0 +1,6 @@
+libraries used : python 3
+		 numpy
+		 cv2
+		 imutils
+		 datetime
+		 telepot
